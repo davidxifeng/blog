@@ -2,8 +2,8 @@
 author: david feng
 pubDatetime: 2023-12-07T15:48:07.302Z
 title: 我终于开始写博客了
-postSlug: begin-blog
-featured: true
+postSlug: first-blog
+featured: false
 tags:
   - 日常
 description: "博客开通说明"

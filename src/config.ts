@@ -3,11 +3,11 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://david.zhoushen929.com/", // replace this with your deployed domain
   author: "david xifeng",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "西风的个人网站, 记录生活, 想法💡, 读书📖, 思考🤔.",
   title: "西风",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
-  postPerPage: 3,
+  postPerPage: 5,
 };
 
 export const LOCALE = ["zh-CN"]; // set to [] to use the environment default
